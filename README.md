@@ -1,1 +1,1 @@
-# Glider-landing-using-2-servos-and-GPS
+# Glider-landing-using-2-servo-motors-and-GPS
